@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Satyajit-panda/MyPortfolio/static/css/main.43a86644.chunk.css",
-    "main.js": "/Satyajit-panda/MyPortfolio/static/js/main.a541c499.chunk.js",
-    "main.js.map": "/Satyajit-panda/MyPortfolio/static/js/main.a541c499.chunk.js.map",
-    "runtime-main.js": "/Satyajit-panda/MyPortfolio/static/js/runtime-main.06aa46c2.js",
-    "runtime-main.js.map": "/Satyajit-panda/MyPortfolio/static/js/runtime-main.06aa46c2.js.map",
-    "static/js/2.b92f3f34.chunk.js": "/Satyajit-panda/MyPortfolio/static/js/2.b92f3f34.chunk.js",
-    "static/js/2.b92f3f34.chunk.js.map": "/Satyajit-panda/MyPortfolio/static/js/2.b92f3f34.chunk.js.map",
-    "index.html": "/Satyajit-panda/MyPortfolio/index.html",
-    "static/css/main.43a86644.chunk.css.map": "/Satyajit-panda/MyPortfolio/static/css/main.43a86644.chunk.css.map",
-    "static/js/2.b92f3f34.chunk.js.LICENSE.txt": "/Satyajit-panda/MyPortfolio/static/js/2.b92f3f34.chunk.js.LICENSE.txt",
-    "static/media/Slide1.14619b04.webp": "/Satyajit-panda/MyPortfolio/static/media/Slide1.14619b04.webp",
-    "static/media/Slide2.d58e7971.webp": "/Satyajit-panda/MyPortfolio/static/media/Slide2.d58e7971.webp",
-    "static/media/Slide3.ea32b5ab.webp": "/Satyajit-panda/MyPortfolio/static/media/Slide3.ea32b5ab.webp"
+    "main.css": "/MyPortfolio/static/css/main.43a86644.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.a541c499.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.a541c499.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.2f2ec165.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.2f2ec165.js.map",
+    "static/js/2.c79d4506.chunk.js": "/MyPortfolio/static/js/2.c79d4506.chunk.js",
+    "static/js/2.c79d4506.chunk.js.map": "/MyPortfolio/static/js/2.c79d4506.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "static/css/main.43a86644.chunk.css.map": "/MyPortfolio/static/css/main.43a86644.chunk.css.map",
+    "static/js/2.c79d4506.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.c79d4506.chunk.js.LICENSE.txt",
+    "static/media/Slide1.14619b04.webp": "/MyPortfolio/static/media/Slide1.14619b04.webp",
+    "static/media/Slide2.d58e7971.webp": "/MyPortfolio/static/media/Slide2.d58e7971.webp",
+    "static/media/Slide3.ea32b5ab.webp": "/MyPortfolio/static/media/Slide3.ea32b5ab.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.06aa46c2.js",
-    "static/js/2.b92f3f34.chunk.js",
+    "static/js/runtime-main.2f2ec165.js",
+    "static/js/2.c79d4506.chunk.js",
     "static/css/main.43a86644.chunk.css",
     "static/js/main.a541c499.chunk.js"
   ]
