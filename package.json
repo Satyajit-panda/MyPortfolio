@@ -1,6 +1,6 @@
 {
   "name": "myportfolio",
-  "homepage": "https://github.com/Satyajit-panda/MyPortfolio",
+  "homepage": "https://satyajit-panda.github.io/MyPortfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,8 @@
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-dom": "^17.0.2",
+    "react-parallax": "^3.3.0",
+    "react-reveal": "^1.2.2",
     "react-scripts": "4.0.3",
     "react-typing-effect": "^2.0.5",
     "styled-components": "^5.3.0",
@@ -45,6 +47,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "node-sass": "^6.0.1"
   }
 }
