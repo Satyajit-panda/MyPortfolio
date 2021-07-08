@@ -11,6 +11,8 @@ import MyCarousal from "./components/my-carousel/my-carouselcomponent";
 import TitleMessage from "./components/title-message/title-message.component";
 import About from "./pages/about/about.component";
 import Skills from "./pages/skills/skills.component";
+import Experience from "./pages/experience/experience.component";
+import TimeLine from "./components/projects-timeline/projects-timeline.component";
 
 
 const App =() =>
@@ -41,7 +43,20 @@ const App =() =>
           </Fade>
           </Container>
           </div>
-    </div>
+          <div>
+          <Container className="container-box rounded">
+          <Fade duration={500}>
+          <Experience/>
+          </Fade>
+          </Container>
+          </div>
+          <Container className="container-box rounded">
+          <Fade duration={500}>
+          <TimeLine/>
+          </Fade>
+          </Container>
+          </div>
+
   );
 };
 export default App;
