@@ -10,6 +10,7 @@ import MyNavbar from "./components/my-navbar/my-navbar.component";
 import MyCarousal from "./components/my-carousel/my-carouselcomponent";
 import TitleMessage from "./components/title-message/title-message.component";
 import About from "./pages/about/about.component";
+import Skills from "./pages/skills/skills.component";
 
 
 const App =() =>
@@ -21,7 +22,7 @@ const App =() =>
         <TitleMessage/>
         {/* About Me Section */}
         <div>
-<Parallax blur = {{ min: -30, max: 30 }}
+<Parallax blur = {{ min: -1000, max: 1000}}
           bgImage={BgImage}
           bgImageAlt="parallax bg"
           strength={-200}>
@@ -31,11 +32,16 @@ const App =() =>
           </Fade>
           </Container>
           </Parallax>
-        
-            
-        </div>
+          </div>
+          {/*Skills Section*/}
+          <div>
+          <Container className="container-box rounded">
+          <Fade duration={500}>
+          <Skills/>
+          </Fade>
+          </Container>
+          </div>
     </div>
   );
-}
-
+};
 export default App;
